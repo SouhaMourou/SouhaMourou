@@ -54,7 +54,7 @@ I'm always learning and exploring new technologies and techniques in the field o
 
 - Statistics
 
-- Development of open-source software tools for remote sensing and AI applications
+
 
 
 
