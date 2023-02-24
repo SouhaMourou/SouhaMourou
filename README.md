@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
   🌱 What I'm Learning
 
-I'm always learning and exploring new technologies and techniques in the field of machine learning and remote sensing. Currently, I'm focusing on:
+I'm always learning and exploring new technologies and techniques in the field of Machine Learning and Data Science. Currently, I'm focusing on:
 
 - Cuda with Python
 
