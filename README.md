@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-✨ Welcome to my GitHub profile! I'm a Junior Machine Learning Engineer with a focus on extracting insights from satellite imagery using AI solutions. I'm passionate about the intersection of AI and remote sensing, and I'm always exploring new ways to leverage these technologies for a variety of applications.
+✨ Welcome to my GitHub profile! I'm a Junior Machine Learning Engineer with a focus on extracting insights from satellite imagery using AI solutions. I'm passionate about the intersection of AI and Data Science, and I'm always exploring new ways to leverage these technologies for a variety of applications.
 
 
 
@@ -64,4 +64,4 @@ I'm always learning and exploring new technologies and techniques in the field o
 
   🤝 Let's Connect
 
-I'm always looking for new opportunities to collaborate on projects related to AI and remote sensing. If you're interested in working with me, or if you just want to chat about machine learning, feel free to reach out to me on LinkedIn.
+💬 I'm always looking for new opportunities to collaborate on projects related to AI. If you're interested in working with me, or if you just want to chat about Machine Learning, feel free to reach out to me on LinkedIn.
