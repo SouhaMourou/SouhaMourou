@@ -65,3 +65,14 @@ I'm always learning and exploring new technologies and techniques in the field o
   🤝 Let's Connect
 
 💬 I'm always looking for new opportunities to collaborate on projects related to AI. If you're interested in working with me, or if you just want to chat about Machine Learning, feel free to reach out to me on LinkedIn.
+
+
+
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SouhaMourou&theme=synthwave)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=SouhaMourou&theme=jolly)](https://github.com/SouhaMourou/github-readme-stats)
